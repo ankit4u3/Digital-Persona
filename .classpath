@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/Java/dpuareu.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="javacv-windows-x86_64.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmf.jar"/>
+	<classpathentry exported="true" kind="lib" path="webcam-capture-0.3.10-RC4.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-api-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="bridj-0.7-20130703.103049-42.jar"/>
+	<classpathentry kind="lib" path="jvideo-v0.01stable.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
